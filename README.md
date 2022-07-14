@@ -14,7 +14,6 @@ black --check --verbose .
 The following error occurs
 
 ```
-black --check --verbose .
 Usage: black [OPTIONS] SRC ...
 Try 'black -h' for help.
 
